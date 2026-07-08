@@ -1,0 +1,19 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Survival models
+xgboost>=2.0
+scikit-survival>=0.22      # provides sksurv: RandomSurvivalForest, GradientBoostingSurvivalAnalysis
+scikit-learn>=1.3          # calibration (isotonic, Platt), CV, metrics
+
+# Hyperparameter optimization
+optuna>=3.4
+
+# EDA / visualization (notebook)
+matplotlib>=3.7
+seaborn>=0.12
+
+# Notebook
+jupyterlab>=4.0

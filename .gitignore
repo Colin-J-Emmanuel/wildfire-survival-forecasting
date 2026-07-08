@@ -1,0 +1,29 @@
+# Data — never commit the competition dataset (see data/README.md)
+data/*.csv
+data/*.parquet
+data/*.zip
+!data/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Optuna / model artifacts
+*.db
+*.pkl
+*.joblib
+optuna_study*/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Keep generated submissions out of git except the scoring one
+submissions/*.csv
+!submissions/submission_colin.csv

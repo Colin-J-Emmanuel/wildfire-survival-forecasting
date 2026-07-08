@@ -251,7 +251,7 @@ Built for the **Break Through Tech AI · Spring 2026 AI Studio** as a 3-person t
 
 | Name | Role | GitHub |
 |---|---|---|
-| Colin [Last Name] | Modeling, enhancement & reproducibility | [@your-handle](https://github.com/your-handle) |
+| Colin Emmanuel | Modeling, enhancement & reproducibility | [@Colin-J-Emmanuel](https://github.com/Colin-J-Emmanuel) |
 | [Teammate 2] | [Role] | [@handle](https://github.com/) |
 | [Teammate 3] | [Role] | [@handle](https://github.com/) |
 

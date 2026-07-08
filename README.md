@@ -249,13 +249,11 @@ zero while closing fires resolve toward 1. Regenerate with `python scripts/gener
 
 Built for the **Break Through Tech AI · Spring 2026 AI Studio** as a 3-person team.
 
-| Name | Role | GitHub |
+| Name | Role | GitHub/LinkedIn |
 |---|---|---|
 | Colin Emmanuel | Modeling, enhancement & reproducibility | [@Colin-J-Emmanuel](https://github.com/Colin-J-Emmanuel) |
-| [Teammate 2] | [Role] | [@handle](https://github.com/) |
-| [Teammate 3] | [Role] | [@handle](https://github.com/) |
-
-> *Fill in your teammates' names, roles, and handles. Everyone appreciates being credited on a public repo.*
+| Jadesola Adebayo | Modeling, enhancement & reproducibility | [@jadesolaadebayo](https://www.linkedin.com/in/jadesolaadebayo/) |
+| Shreya Venkat | Modeling, enhancement & reproducibility | [@shreyavenkateswaran](https://github.com/shreyavenkateswaran) |
 
 ---
 

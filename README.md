@@ -191,8 +191,8 @@ notebook. The two never drift because both derive from the same modules.
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/wids-datathon-2026-wildfire-survival.git
-cd wids-datathon-2026-wildfire-survival
+git clone https://github.com/<your-username>/wildfire-survival-forecasting.git
+cd wildfire-survival-forecasting
 
 # 2. Create an environment (Python 3.10+ recommended)
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
